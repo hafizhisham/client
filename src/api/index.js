@@ -1,1 +1,1 @@
-export const HOST = "http://localhost:8080";
+export const HOST = "https://application-name-api-09hh.onrender.com/";
